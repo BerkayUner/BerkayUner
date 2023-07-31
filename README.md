@@ -6,8 +6,8 @@
 - 💬 Ask me about Ecole4️⃣2️⃣
 - 📫 How to reach me 
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkrc4bp0000608mnp3xkei2l/stats?cursusId=9&coalitionId=248" alt="suner's 42 stats" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkrc4bp0000608mnp3xkei2l/stats?cursusId=21&coalitionId=360" alt="suner's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkrc4bp0000608mnp3xkei2l/stats?cursusId=9&coalitionId=248" alt="suner's 42 stats" height="175" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkrc4bp0000608mnp3xkei2l/stats?cursusId=21&coalitionId=360" alt="suner's 42 stats" height="175"/></a>
 
 
 
